@@ -176,9 +176,9 @@ cp -r codex-claude-academic-skills/scientific-toolkit-skill ~/.claude/skills/
 
 ```bash
 # 安装到全局 skills 目录
-cp -r claude-academic-skills/research-writing-skill ~/.codex/skills/
-cp -r claude-academic-skills/office-academic-skill ~/.codex/skills/
-cp -r claude-academic-skills/scientific-toolkit-skill ~/.codex/skills/
+cp -r codex-claude-academic-skills/research-writing-skill ~/.codex/skills/
+cp -r codex-claude-academic-skills/office-academic-skill ~/.codex/skills/
+cp -r codex-claude-academic-skills/scientific-toolkit-skill ~/.codex/skills/
 ```
 
 也可通过 `--plugin-url` 参数在当前会话中直接加载：
