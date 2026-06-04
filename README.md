@@ -161,9 +161,9 @@
 git clone https://github.com/你的用户名/claude-academic-skills.git
 
 # 安装到全局 skills 目录
-cp -r claude-academic-skills/research-writing-skill ~/.claude/skills/
-cp -r claude-academic-skills/office-academic-skill ~/.claude/skills/
-cp -r claude-academic-skills/scientific-toolkit-skill ~/.claude/skills/
+cp -r codex-claude-academic-skills/research-writing-skill ~/.claude/skills/
+cp -r codex-claude-academic-skills/office-academic-skill ~/.claude/skills/
+cp -r codex-claude-academic-skills/scientific-toolkit-skill ~/.claude/skills/
 ```
 
 也可通过 Plugin 方式一键安装：
